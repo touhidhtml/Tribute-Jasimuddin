@@ -81,8 +81,10 @@ footer div{
 
     .sidebar{
         display: flex;
+        padding-right: -10px;
         gap: 10px;
-        font-size: 9px;
+        font-size: 7px;
+        text-align: center;
         margin-left: 0px;
         border: 2px solid rgb(201 183 19);
         padding: 10px;
